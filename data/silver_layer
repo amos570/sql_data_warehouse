@@ -1,5 +1,5 @@
 */=========================================================/*
-Procedure: Loading Data into Silver Layer
+Procedure: Loading Data into Silver Layer  (Bronze > Silver)
 */=========================================================/*
 Purpose of the script:
  - Creating a procedure Silver.load_Silver
